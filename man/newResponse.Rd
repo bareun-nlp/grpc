@@ -11,9 +11,6 @@ newResponse(..., WFUN = sys.function(-1))
 
 \item{WFUN}{A GRPC service method with RequestType and ResponseType attributes}
 }
-\value{
-
-}
 \description{
 Construct a new ProtoBuf of ResponseType
 }
